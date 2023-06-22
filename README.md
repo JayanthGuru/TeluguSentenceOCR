@@ -1,6 +1,8 @@
 # TeluguSentenceOCR
-The Telugu OCR for recognizing Handwritten Sentences.
 
+> Note : This below instructions are intended to work on this project via Google Colab only. If you are willing to work on your personel pc please raise an issue so that I can help you
+
+The Telugu OCR for recognizing Handwritten Sentences.
 
 ## Step-0: Create a folder in Google drive
 
